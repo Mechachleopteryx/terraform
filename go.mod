@@ -15,7 +15,7 @@ require (
 	github.com/apparentlymart/go-userdirs v0.0.0-20200915174352-b0c018a67c13
 	github.com/apparentlymart/go-versions v1.0.1
 	github.com/armon/circbuf v0.0.0-20190214190532-5111143e8da2
-	github.com/aws/aws-sdk-go v1.40.25
+	github.com/aws/aws-sdk-go v1.44.213
 	github.com/bgentry/speakeasy v0.1.0
 	github.com/bmatcuk/doublestar v1.1.5
 	github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e
@@ -83,13 +83,13 @@ require (
 	github.com/zclconf/go-cty-yaml v1.0.2
 	go.etcd.io/etcd v0.5.0-alpha.5.0.20210428180535-15715dcf1ace
 	golang.org/x/crypto v0.0.0-20211108221036-ceb1ce70b4fa
-	golang.org/x/mod v0.4.2
-	golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4
+	golang.org/x/net v0.1.0
 	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c
-	golang.org/x/sys v0.0.0-20210809222454-d867a43fc93e
-	golang.org/x/term v0.0.0-20210220032956-6a3ed077a48d
-	golang.org/x/text v0.3.6
-	golang.org/x/tools v0.1.7
+	golang.org/x/sys v0.1.0
+	golang.org/x/term v0.1.0
+	golang.org/x/text v0.4.0
+	golang.org/x/tools v0.1.12
 	google.golang.org/api v0.44.0-impersonate-preview
 	google.golang.org/grpc v1.36.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
